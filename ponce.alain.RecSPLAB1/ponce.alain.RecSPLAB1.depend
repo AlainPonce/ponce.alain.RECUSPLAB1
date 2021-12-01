@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1638322588 source:c:\users\alain\desktop\ponce.alain.recsplab1\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1637277080 c:\users\alain\desktop\ponce.alain.recsplab1\linkedlist.h
+
+1638364425 source:c:\users\alain\desktop\ponce.alain.recsplab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"LinkedList.h"
+	"controller.h"
+	"peliculas.h"
+
+1638364745 c:\users\alain\desktop\ponce.alain.recsplab1\controller.h
+	"LinkedList.h"
+	"peliculas.h"
+
+1638365044 c:\users\alain\desktop\ponce.alain.recsplab1\peliculas.h
+
+1638359929 source:c:\users\alain\desktop\ponce.alain.recsplab1\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"controller.h"
+	"peliculas.h"
+	"parser.h"
+
+1638364990 c:\users\alain\desktop\ponce.alain.recsplab1\parser.h
+
+1638362593 source:c:\users\alain\desktop\ponce.alain.recsplab1\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"controller.h"
+	"peliculas.h"
+	"parser.h"
+
+1638364675 source:c:\users\alain\desktop\ponce.alain.recsplab1\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"peliculas.h"
+	"parser.h"
+
+1638362593 source:c:\users\alain\desktop\ponce.alain.recusplab1\ponce.alain.recsplab1\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"controller.h"
+	"peliculas.h"
+	"parser.h"
+
+1637277080 c:\users\alain\desktop\ponce.alain.recusplab1\ponce.alain.recsplab1\linkedlist.h
+
+1638364745 c:\users\alain\desktop\ponce.alain.recusplab1\ponce.alain.recsplab1\controller.h
+	"LinkedList.h"
+	"peliculas.h"
+
+1638365437 c:\users\alain\desktop\ponce.alain.recusplab1\ponce.alain.recsplab1\peliculas.h
+
+1638364990 c:\users\alain\desktop\ponce.alain.recusplab1\ponce.alain.recsplab1\parser.h
+
+1638322588 source:c:\users\alain\desktop\ponce.alain.recusplab1\ponce.alain.recsplab1\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1638365179 source:c:\users\alain\desktop\ponce.alain.recusplab1\ponce.alain.recsplab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"LinkedList.h"
+	"controller.h"
+	"peliculas.h"
+
+1638359929 source:c:\users\alain\desktop\ponce.alain.recusplab1\ponce.alain.recsplab1\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"controller.h"
+	"peliculas.h"
+	"parser.h"
+
+1638365711 source:c:\users\alain\desktop\ponce.alain.recusplab1\ponce.alain.recsplab1\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"peliculas.h"
+	"parser.h"
+
